@@ -1,0 +1,18 @@
+{
+  "name": "sdet-portfolio-projects",
+  "version": "1.0.0",
+  "description": "This repository is a curated showcase of my software development engineer in test (SDET) capabilities. It includes practical examples of:",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^5.6.0"
+  }
+}
